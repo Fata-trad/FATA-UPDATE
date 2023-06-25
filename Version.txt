@@ -1,12 +1,12 @@
 CurrentVersion=2
 [Version 2.2]
 
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/v2.1/AssetsFile.zip
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage
    
    
-https://github.com/Fata-trad/Fata-Installer/releases/download/fata-install/sharedassets10.assets.resS
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/v2.1/AssetsFile3.zip
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/v2.1/DataFile.zip
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage2
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage3
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage4
 [Version=2.0]
  
   
