@@ -4,7 +4,7 @@ CurrentVersion=2.268
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/MOV_chapter_Req3_re.mp4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage2
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage3
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage1
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/level2
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/sharedassets4.assets
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/sharedassets5.assets
