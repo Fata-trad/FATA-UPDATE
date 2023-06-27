@@ -2,6 +2,9 @@ CurrentVersion=2.2
 [Version=2.2]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage2
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage3
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/SystemMessageData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/sharedassets4.assets
 [Version=2.0]
  
   
