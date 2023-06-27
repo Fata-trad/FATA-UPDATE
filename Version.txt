@@ -7,10 +7,7 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage3
   
  
 [Version=1.9]
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/v1.1/FatamoruPC-V1.1.rar
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/V2.0/DataFile.zip
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/V2.0/AssetsFile.zip
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/V2.0/VideoFile.zip
+
  
 [Version=1.7]
-https://github.com/MysticHaze157/fata-morgana-remastered-french/releases/download/FataRemasteredFR-V1.0/FatamoruPC-V1.0.rar
+
