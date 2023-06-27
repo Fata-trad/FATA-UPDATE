@@ -1,4 +1,4 @@
-CurrentVersion=2.268
+CurrentVersion=2.2
 [Version=2.2]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage2
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage3
