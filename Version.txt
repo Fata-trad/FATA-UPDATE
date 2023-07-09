@@ -1,4 +1,6 @@
-CurrentVersion=2.2
+CurrentVersion=2.3
+[Version=2.3]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/Assembly-CSharp.dll
 [Version=2.2]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/bgimage2
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Asseetbundle/SystemMessageData.txt
