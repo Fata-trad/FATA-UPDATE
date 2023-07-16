@@ -1,4 +1,11 @@
-CurrentVersion=1
+CurrentVersion=2.22
+[Version=2.21]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_fr
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_en
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_en.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 [Version=2.21]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
