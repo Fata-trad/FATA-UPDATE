@@ -1,4 +1,8 @@
-CurrentVersion=1
+CurrentVersion=2.245
+[Version=2.245]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/yoffset_data.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/MesWinFontData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 [Version=2.24]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
