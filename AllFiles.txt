@@ -186,6 +186,7 @@
 /Seventh Lair_Data/StreamingAssets/TextAsset/LanguageData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/MenuFontData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/MesWinFontData.txt
+/Seventh Lair_Data/StreamingAssets/TextAsset/yoffset_data.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/NameTagFontData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/SystemMessageData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/Version.txt
