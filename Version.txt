@@ -1,4 +1,7 @@
-CurrentVersion=2.245
+CurrentVersion=2.26
+[Version=2.26]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
 [Version=2.245]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/yoffset_data.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/MesWinFontData.txt
