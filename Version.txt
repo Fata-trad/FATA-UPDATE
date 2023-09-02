@@ -1,4 +1,7 @@
-CurrentVersion=2.27
+CurrentVersion=2.272
+[Version=2.272]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_introFD.mp4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_config_effect.mp4
 [Version=2.27]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/resources.assets
