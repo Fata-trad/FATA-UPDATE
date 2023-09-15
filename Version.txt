@@ -1,4 +1,8 @@
-CurrentVersion=2.272
+CurrentVersion=2.273
+[Version=2.273]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_butterfly.mp4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_buttle.mp4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_buttle2.mp4
 [Version=2.272]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_introFD.mp4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_config_effect.mp4
