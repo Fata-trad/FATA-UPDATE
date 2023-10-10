@@ -1,4 +1,4 @@
-CurrentVersion=2.275
+CurrentVersion=1
 [Version=2.275]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_DeadEndRoll.mp4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_staffroll_main.mp4
