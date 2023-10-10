@@ -1,4 +1,13 @@
-CurrentVersion=2.275
+CurrentVersion=2.276
+[Version=2.276]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage2
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage2.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage3
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage3.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
 [Version=2.275]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_DeadEndRoll.mp4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_staffroll_main.mp4
