@@ -1,4 +1,14 @@
-CurrentVersion=1
+CurrentVersion=2.3
+[Version=2.3]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ChapterMenuData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh.manifest
 [Version=2.276]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage.manifest
