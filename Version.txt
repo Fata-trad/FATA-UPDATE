@@ -1,4 +1,4 @@
-CurrentVersion=2.276
+CurrentVersion=1
 [Version=2.276]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage.manifest
