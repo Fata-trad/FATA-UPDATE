@@ -1,4 +1,6 @@
-CurrentVersion=2.33
+CurrentVersion=2.34
+[Version=2.34]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 [Version=2.33]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 [Version=2.32]
