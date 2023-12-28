@@ -1,4 +1,10 @@
-CurrentVersion=2.34
+CurrentVersion=2.35
+[Version=2.35]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/ui_images
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ConcertHallData.txt
 [Version=2.34]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 [Version=2.33]
