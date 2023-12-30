@@ -1,4 +1,7 @@
-CurrentVersion=2.37
+CurrentVersion=2.38
+[Version=2.38]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 [Version=2.37]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/globalgamemanagers
 [Version=2.36]
