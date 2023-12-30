@@ -1,4 +1,6 @@
-CurrentVersion=2.36
+CurrentVersion=2.37
+[Version=2.37]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/globalgamemanagers
 [Version=2.36]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ConcertHallData.txt
 [Version=2.35]
