@@ -1,4 +1,4 @@
-CurrentVersion=2.381
+CurrentVersion=2.382
 [Version=2.382]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgm
 [Version=2.381]
