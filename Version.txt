@@ -1,4 +1,9 @@
-CurrentVersion=2.38
+CurrentVersion=2.381
+[Version=2.381]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgm
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgm.manifest
 [Version=2.38]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
