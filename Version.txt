@@ -1,4 +1,6 @@
-CurrentVersion=2.383
+CurrentVersion=2.384
+[Version=2.384]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_intro.mp4
 [Version=2.383]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh.manifest
