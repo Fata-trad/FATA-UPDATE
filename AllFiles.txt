@@ -190,6 +190,7 @@
 /Seventh Lair_Data/StreamingAssets/TextAsset/NameTagFontData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/SystemMessageData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/Version.txt
+/Seventh Lair_Data/StreamingAssets/TextAsset/PATCHNOTE.txt
 /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
 /MonoBleedingEdge/etc/mono/2.0/machine.config
 /MonoBleedingEdge/etc/mono/2.0/settings.map
