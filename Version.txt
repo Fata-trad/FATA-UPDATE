@@ -1,4 +1,11 @@
-CurrentVersion=2.395
+CurrentVersion=2.3955
+[Version=2.3955]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_intro_fr.srt
 [Version=2.395]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
