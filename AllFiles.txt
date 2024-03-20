@@ -253,6 +253,8 @@
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/voice.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/Windows64
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/Windows64.manifest
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/particles
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/particles.manifest
 /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
 /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
 /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
