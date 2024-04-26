@@ -1,9 +1,9 @@
-CurrentVersion=2.3966
-[Version=2.3966]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
-[Version=2.3965]
+CurrentVersion=2.3967
+[Version=2.3967]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
+[Version=2.3966]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 [Version=2.3955]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
