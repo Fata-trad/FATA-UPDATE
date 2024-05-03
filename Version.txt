@@ -1,4 +1,7 @@
-CurrentVersion=2.3967
+CurrentVersion=2.397
+[Version=2.397]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_old
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_old.manifest
 [Version=2.3967]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
