@@ -14,9 +14,6 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patc
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_intro_fr.srt
-[Version=2.395]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
 [Version=2.394]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 [Version=2.393]
@@ -104,7 +101,6 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4.manifest
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh.manifest
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh.manifest
 [Version=2.276]
@@ -155,9 +151,6 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/movie_fullHD/MOV_conf
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/resources.assets
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
-[Version=2.26]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
 [Version=2.245]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/yoffset_data.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/MesWinFontData.txt
