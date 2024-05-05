@@ -181,6 +181,7 @@
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_staffroll_rein.mp4
 /Seventh Lair_Data/StreamingAssets/TextAsset/bgimage_size_info.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/ChapterMenuData.txt
+/Seventh Lair_Data/StreamingAssets/TextAsset/ArtGalleryData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/ConcertHallData.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/fgimage_size_info.txt
 /Seventh Lair_Data/StreamingAssets/TextAsset/LanguageData.txt
