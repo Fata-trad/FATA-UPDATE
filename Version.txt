@@ -1,4 +1,13 @@
-CurrentVersion=2.3976
+CurrentVersion=2.398
+[Version=2.398]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_it
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_it.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_fr
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_fr.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_en
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_en.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/ui_images
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/ui_images.manifest
 [Version=2.3976]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4.manifest
