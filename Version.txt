@@ -1,5 +1,5 @@
-CurrentVersion=2.3991
-[Version=2.3991]
+CurrentVersion=2.3992
+[Version=2.3992]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 [Version=2.399]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
