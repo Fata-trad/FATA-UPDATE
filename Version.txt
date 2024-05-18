@@ -1,6 +1,10 @@
-CurrentVersion=2.3993
-[Version=2.3993]
+CurrentVersion=2.51
+[Version=2.51]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/level9
 [Version=2.399]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage.manifest
