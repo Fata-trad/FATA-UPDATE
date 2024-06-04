@@ -9,8 +9,8 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/globalgameman
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
 [Version=2.51]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/level9
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
 [Version=2.399]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage.manifest
