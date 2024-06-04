@@ -1,11 +1,15 @@
-CurrentVersion=2.52
-[Version=2.52]
+CurrentVersion=2.521
+[Version=2.521]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/globalgamemanagers
+[Version=2.52]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
 [Version=2.51]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/level9
 [Version=2.399]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage
@@ -17,8 +21,6 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage3
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/PATCHNOTE.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/NameTagFontData.txt
@@ -96,8 +98,6 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseven
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh.manifest
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgm
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgm.manifest
-[Version=2.37]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/globalgamemanagers
 [Version=2.36]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ConcertHallData.txt
 [Version=2.32]
