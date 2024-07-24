@@ -225,6 +225,7 @@
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_old.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_jp
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_jp.manifest
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_ru
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_ru.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_sc
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_sc.manifest
