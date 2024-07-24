@@ -1,4 +1,7 @@
-CurrentVersion=2.592
+CurrentVersion=2.593
+[Version=2.593]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
 [Version=2.592]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
 [Version=2.591]
