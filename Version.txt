@@ -1,4 +1,12 @@
-CurrentVersion=2.601
+CurrentVersion=2.602
+[Version=2.602]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/PATCHNOTE.txt
 [Version=2.601]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
 [Version=2.6]
