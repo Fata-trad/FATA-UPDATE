@@ -1,4 +1,7 @@
-CurrentVersion=2.602
+CurrentVersion=2.603
+[Version=2.603]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/PATCHNOTE.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 [Version=2.602]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
