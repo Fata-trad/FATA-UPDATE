@@ -1,4 +1,7 @@
-CurrentVersion=2.61
+CurrentVersion=2.611
+[Version=2.611]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_ru
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_ru.manifest
 [Version=2.61]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh
