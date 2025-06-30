@@ -1,8 +1,14 @@
-CurrentVersion=2.852
-[Version=2.852]
+CurrentVersion=2.853
+[Version=2.853]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
+
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseventh.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh.manifest
+
 [Version=2.85]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
