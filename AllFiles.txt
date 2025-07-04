@@ -257,6 +257,8 @@
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_tc.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_ru
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_ru.manifest
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_es
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_es.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/mod_patch
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/mod_patch.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/sound
