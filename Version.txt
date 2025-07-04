@@ -1,4 +1,8 @@
-CurrentVersion=3.0
+CurrentVersion=3.01
+[Version=3.01]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
+
 [Version=3.0]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
