@@ -223,6 +223,8 @@
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_it.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_ar
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_ar.manifest
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_es
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_es.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_old
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_old.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/bgimage_jp
@@ -253,6 +255,8 @@
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_sc.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_tc
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_tc.manifest
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_ru
+/Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/lyrics_ru.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/mod_patch
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/mod_patch.manifest
 /Seventh Lair_Data/StreamingAssets/AssetBundles/Windows64/sound
