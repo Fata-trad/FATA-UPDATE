@@ -1,5 +1,5 @@
-CurrentVersion=1
-[Version=2.853]
+CurrentVersion=3.0
+[Version=3.0]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Assembly-CSharp.dll
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
@@ -9,12 +9,6 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgmseven
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/soundseventh.manifest
 
-[Version=2.85]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/particles.manifest
-
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/PATCHNOTE.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/SystemMessageData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/NameTagFontData.txt
@@ -22,6 +16,20 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/MesWinFontD
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/MenuFontData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/LanguageData.txt
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ChapterMenuData.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/bgimage_size_info.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/fgimage_size_info.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/yoffset_data.txt
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ConcertHallData.txt
+
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_es
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_es.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_es
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_es.manifest
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4.manifest
+
+[Version=2.85]
+
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_ar
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_ar.manifest
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_ar
