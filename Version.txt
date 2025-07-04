@@ -1,5 +1,5 @@
-CurrentVersion=3.01
-[Version=3.01]
+CurrentVersion=3.011
+[Version=3.011]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
 
