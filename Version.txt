@@ -1,4 +1,7 @@
-CurrentVersion=3.011
+CurrentVersion=3.012
+[Version=3.012]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
 [Version=3.011]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/mod_patch.manifest
