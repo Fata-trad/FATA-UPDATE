@@ -1,4 +1,7 @@
-CurrentVersion=3.012
+CurrentVersion=3.013
+[Version=3.013]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ChapterMenuData.txt
+
 [Version=3.012]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/fgimage_pack.manifest
