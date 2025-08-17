@@ -1,4 +1,8 @@
-CurrentVersion=3.013
+CurrentVersion=3.014
+
+[Version=3.014]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_it
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_it.manifest
 [Version=3.013]
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/TextAsset/ChapterMenuData.txt
 
@@ -253,3 +257,4 @@ https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage4
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/bgimage_fr
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_en
 https://github.com/Fata-trad/FATA-UPDATE/releases/download/AssetBundles/lyrics_en.manifest
+
