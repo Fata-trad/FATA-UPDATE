@@ -4,6 +4,7 @@
 /LinkGameRemaid.exe
 /Launcher.exe
 /Launcher
+/CheckV4.exe
 /Seventh Lair_Data/app.info
 /Seventh Lair_Data/boot.config
 /Seventh Lair_Data/globalgamemanagers
@@ -338,4 +339,5 @@
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_seventhFakeEnd.webm
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_staffroll_main.webm
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_staffroll_rein.webm
+
 
