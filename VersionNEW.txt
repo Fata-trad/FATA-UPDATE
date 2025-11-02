@@ -1,0 +1,5 @@
+CurrentVersion=3.82
+[Version=3.82]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/LinkGameRemaid.exe
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Launcher.exe
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/Manager/Launcher
