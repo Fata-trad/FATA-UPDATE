@@ -1,0 +1,8 @@
+CurrentVersion=3.5
+
+[Version=3.5]
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/V4.0/LinkGameRemaid.exe
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/V4.0/Launcher.exe
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/V4.0/Launcher
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/V4.0/CheckV4.exe
+https://github.com/Fata-trad/FATA-UPDATE/releases/download/V4.0/Assembly-CSharp.dll
