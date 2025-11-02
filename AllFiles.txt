@@ -1,6 +1,9 @@
 /Seventh Lair.exe
 /UnityCrashHandler64.exe
 /UnityPlayer.dll
+/LinkGameRemaid.exe
+/Launcher.exe
+/Launcher
 /Seventh Lair_Data/app.info
 /Seventh Lair_Data/boot.config
 /Seventh Lair_Data/globalgamemanagers
@@ -335,3 +338,4 @@
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_seventhFakeEnd.webm
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_staffroll_main.webm
 /Seventh Lair_Data/StreamingAssets/movie_fullHD/MOV_staffroll_rein.webm
+
