@@ -1,4 +1,0 @@
-CurrentVersion=3.5
-
-[Version=3.4]
-https://github.com/Fata-trad/FATA-UPDATE/releases/download/V4.0/Assembly-CSharp.dll
